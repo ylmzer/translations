@@ -2622,6 +2622,16 @@
     "zh-Hans": "日期",
     "fr": "Date"
   },
+  "generic_startDate": {
+    "en": "Start Date",
+    "fr-CA": "Date de début",
+    "es": "Fecha de inicio",
+    "de": "Startdatum",
+    "tr": "Başlangıç Tarihi",
+    "zh-Hant-TW": "開始日期",
+    "zh-Hans": "开始日期",
+    "fr": "Date de début"
+  },
   "generic_delete": {
     "en": "Delete",
     "es": "Eliminar",
@@ -4827,14 +4837,14 @@
     "zh-Hans": "过滤来自 %s 的新闻？"
   },
   "news_filterNewsSourcesHelp": {
-    "en": "To filter a news source, press-hold on it from the news listings page. To remove a filter, click on it below.",
-    "es": "Para filtrar una fuente de noticias, mantén pulsado en ella desde la página de listado de noticias. Para eliminar un filtro, haz clic en él abajo.",
-    "de": "Um eine Nachrichtenquelle zu filtern, halten Sie diese auf der Nachrichtenliste gedrückt. Um einen Filter zu entfernen, klicken Sie ihn unten an",
-    "fr": "Pour filtrer une source d'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
-    "fr-CA": "Pour filtrer une source d'actualités, faites un clic long à partir de la page des nouvelles. Pour supprimer un filtre, cliquez ci-dessous.",
-    "tr": "Bir haber kaynağını filtrelemek için haber listeleri sayfasından üzerine basılı tutun. Aşağıdaki bir filtreyi kaldırmak için üzerine tıklayın.",
-    "zh-Hant-TW": "在新聞列表頁長按來源可將其加入篩選，下方點擊可移除篩選。",
-    "zh-Hans": "长按新闻列表项可过滤该来源。点击下方可移除过滤。"
+    "en": "To filter a news source, press-hold on it from the news listings page.",
+    "es": "Para filtrar una fuente de noticias, mantén pulsado en ella desde la página de listado de noticias.",
+    "de": "Um eine Nachrichtenquelle zu filtern, halten Sie diese auf der Nachrichtenliste gedrückt.",
+    "fr": "Pour filtrer une source d'actualités, faites un clic long à partir de la page des nouvelles.",
+    "fr-CA": "Pour filtrer une source d'actualités, faites un clic long à partir de la page des nouvelles.",
+    "tr": "Bir haber kaynağını filtrelemek için haber listeleri sayfasından üzerine basılı tutun.",
+    "zh-Hant-TW": "在新聞列表頁長按來源可將其加入篩選。",
+    "zh-Hans": "长按新闻列表项可过滤该来源。"
   },
   "news_filteredNewsSources": {
     "en": "Filtered News Sources",
@@ -5087,6 +5097,26 @@
     "zh-Hant-TW": "手續費",
     "zh-Hans": "佣金/手续费"
   },
+  "portfolio_compare": {
+    "en": "Compare",
+    "es": "Comparar",
+    "de": "Vergleichen",
+    "fr": "Comparer",
+    "fr-CA": "Comparer",
+    "tr": "Karşılaştır",
+    "zh-Hant-TW": "比較",
+    "zh-Hans": "比较"
+  },
+  "portfolio_compareWithSymbol": {
+    "en": "Compare with Symbol",
+    "es": "Comparar con símbolo",
+    "de": "Mit Symbol vergleichen",
+    "fr": "Comparer avec un symbole",
+    "fr-CA": "Comparer avec un symbole",
+    "tr": "Sembol ile karşılaştır",
+    "zh-Hant-TW": "與代碼比較",
+    "zh-Hans": "与代码比较"
+  },
   "portfolio_convertPriceToPence": {
     "en": "Convert price to pence",
     "fr-CA": "Convert prix à pence",
@@ -5177,6 +5207,26 @@
     "zh-Hant-TW": "新增至投資組合中…",
     "zh-Hans": "正在加入投资组合…",
     "fr": "Adding à portefeuille…"
+  },
+  "portfolio_alerts_viewAlertsForQuote": {
+    "en": "View existing alerts for Quote",
+    "fr-CA": "Voir les alertes existantes pour le cours",
+    "de": "Bestehende Alarme für die Notierung anzeigen",
+    "tr": "Kotasyon için mevcut uyarıları görüntüle",
+    "zh-Hant-TW": "查看此報價的現有提醒",
+    "zh-Hans": "查看该报价的现有提醒",
+    "es": "Ver alertas existentes para la cotización",
+    "fr": "Voir les alertes existantes pour le cours"
+  },
+  "portfolio_alerts_noExistingAlertsFoundForQuote": {
+    "en": "No existing alerts found for quote",
+    "fr-CA": "Aucune alerte existante trouvée pour ce cours",
+    "de": "Keine bestehenden Alarme für diese Notierung gefunden",
+    "tr": "Kotasyon için mevcut uyarı bulunamadı",
+    "zh-Hant-TW": "找不到此報價的現有提醒",
+    "zh-Hans": "未找到该报价的现有提醒",
+    "es": "No se encontraron alertas existentes para la cotización",
+    "fr": "Aucune alerte existante trouvée pour ce cours"
   },
   "portfolio_allocation_categoryTagDefaultName": {
     "_formatted": false,
