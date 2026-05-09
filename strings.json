@@ -1698,6 +1698,16 @@
     "zh-Hans": "订阅 Premium 以访问全屏历史绩效图表，包含双指缩放、平移、跟踪光标和每日绩效历史记录？",
     "fr": "S’abonner à Premium pour accéder aux graphiques de performance historique en plein écran avec zoom par pincement, déplacement, curseur de suivi et historique des performances quotidiennes ?"
   },
+  "chart_compareWithSymbolPremiumGateMessage": {
+    "en": "Subscribe to premium to compare your portfolio performance with another symbol?",
+    "fr-CA": "S’abonner à Premium pour comparer la performance de votre portefeuille avec un autre symbole ?",
+    "es": "¿Suscribirse a Premium para comparar el rendimiento de su portafolio con otro símbolo?",
+    "de": "Premium abonnieren, um die Performance Ihres Portfolios mit einem anderen Symbol zu vergleichen?",
+    "tr": "Portföy performansınızı başka bir sembol ile karşılaştırmak için Premium'a abone olun?",
+    "zh-Hant-TW": "訂閱 Premium 以將您的投資組合績效與另一個代碼比較？",
+    "zh-Hans": "订阅 Premium 以将您的投资组合绩效与另一个代码比较？",
+    "fr": "S’abonner à Premium pour comparer la performance de votre portefeuille avec un autre symbole ?"
+  },
   "chart_typeArea": {
     "en": "Area",
     "es": "Área",
