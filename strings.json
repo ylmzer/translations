@@ -1316,6 +1316,16 @@
     "zh-Hant-TW": "量：啟用顏色",
     "zh-Hans": "成交量：启用颜色"
   },
+  "chart_enable1DPrevClose": {
+    "en": "Enable 1D Prev Close",
+    "es": "Activar cierre anterior de 1D",
+    "de": "1T-Schlusskurs Vortag aktivieren",
+    "fr": "Activer la clôture précédente 1 j",
+    "fr-CA": "Activer la clôture précédente 1 j",
+    "tr": "1G Önceki Kapanışı Etkinleştir",
+    "zh-Hant-TW": "啟用 1 日前收盤",
+    "zh-Hans": "启用 1 日昨收"
+  },
   "chart_gridlines": {
     "en": "Gridlines",
     "fr-CA": "Lignes de grille",
@@ -1707,6 +1717,16 @@
     "zh-Hant-TW": "訂閱 Premium 以將您的投資組合績效與另一個代碼比較？",
     "zh-Hans": "订阅 Premium 以将您的投资组合绩效与另一个代码比较？",
     "fr": "S’abonner à Premium pour comparer la performance de votre portefeuille avec un autre symbole ?"
+  },
+  "chart_compareWithSymbolAnnotationHelp": {
+    "en": "The percent change annotation that appears on the overlay chart line is for its performance relative to the underlying chart. For example, +10% means that it outperformed by 10% and -10% means it underperformed by 10%.",
+    "fr-CA": "L’annotation de variation en pourcentage qui apparaît sur la ligne du graphique superposé indique sa performance par rapport au graphique sous-jacent. Par exemple, +10 % signifie qu’elle a surperformé de 10 %, et -10 % signifie qu’elle a sous-performé de 10 %.",
+    "es": "La anotación de cambio porcentual que aparece en la línea del gráfico superpuesto muestra su rendimiento en relación con el gráfico subyacente. Por ejemplo, +10% significa que superó el rendimiento en un 10% y -10% significa que tuvo un rendimiento inferior en un 10%.",
+    "de": "Die Prozentänderungs-Anmerkung auf der überlagerten Diagrammlinie zeigt deren Performance im Verhältnis zum zugrunde liegenden Diagramm. Zum Beispiel bedeutet +10 %, dass sie um 10 % besser abgeschnitten hat, und -10 %, dass sie um 10 % schlechter abgeschnitten hat.",
+    "tr": "Kaplama grafik çizgisinde görünen yüzde değişim açıklaması, alttaki grafiğe göre performansını gösterir. Örneğin +10%, %10 daha iyi performans gösterdiği; -10% ise %10 daha düşük performans gösterdiği anlamına gelir.",
+    "zh-Hant-TW": "顯示在疊加圖表線上的百分比變化註記，表示其相對於底層圖表的績效。例如，+10% 表示表現優於 10%，-10% 表示表現落後 10%。",
+    "zh-Hans": "显示在叠加图表线上的百分比变化标注，表示其相对于底层图表的绩效。例如，+10% 表示表现优于 10%，-10% 表示表现落后 10%。",
+    "fr": "L’annotation de variation en pourcentage qui apparaît sur la ligne du graphique superposé indique sa performance par rapport au graphique sous-jacent. Par exemple, +10 % signifie qu’elle a surperformé de 10 %, et -10 % signifie qu’elle a sous-performé de 10 %."
   },
   "chart_typeArea": {
     "en": "Area",
