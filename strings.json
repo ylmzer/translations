@@ -1868,6 +1868,26 @@
     "zh-Hant-TW": "找不到可匯入的資料",
     "zh-Hans": "未找到可导入的数据"
   },
+  "csvImport_deleteExistingPortfolios": {
+    "en": "Delete existing portfolios",
+    "de": "Bestehende Portfolios löschen",
+    "es": "Eliminar carteras existentes",
+    "fr": "Supprimer les portefeuilles existants",
+    "fr-CA": "Supprimer les portefeuilles existants",
+    "tr": "Mevcut portföyleri sil",
+    "zh-Hans": "删除现有投资组合",
+    "zh-Hant-TW": "刪除現有投資組合"
+  },
+  "csvImport_deleteExistingPortfoliosConfirmation": {
+    "en": "Are you sure you want to delete all existing portfolios before importing? This cannot be undone",
+    "de": "Sind Sie sicher, dass Sie vor dem Import alle bestehenden Portfolios löschen möchten? Dies kann nicht rückgängig gemacht werden",
+    "es": "¿Está seguro de que desea eliminar todas las carteras existentes antes de importar? Esta acción no se puede deshacer",
+    "fr": "Êtes-vous sûr de vouloir supprimer tous les portefeuilles existants avant l’importation ? Cette action est irréversible",
+    "fr-CA": "Voulez-vous vraiment supprimer tous les portefeuilles existants avant l’importation ? Cette action est irréversible",
+    "tr": "İçe aktarmadan önce mevcut tüm portföyleri silmek istediğinizden emin misiniz? Bu işlem geri alınamaz",
+    "zh-Hans": "您确定要在导入前删除所有现有投资组合吗？此操作无法撤消",
+    "zh-Hant-TW": "您確定要在匯入前刪除所有現有投資組合嗎？此操作無法復原"
+  },
   "csvImport_fileWasEmpty": {
     "en": "CSV file was empty",
     "es": "El archivo CSV estaba vacío",
@@ -1887,16 +1907,6 @@
     "zh-Hant-TW": "若要匯入，您必須已安裝 Drive 應用程式（多數 Android 裝置已內建，或可從商店下載）。\\n\\n您可以從電腦端造訪 https://drive.google.com 檢視 Google Drive 檔案。也可以從 SD 卡或其他外部儲存空間（於檔案選擇器開啟側邊選單）匯入。",
     "zh-Hans": "若要导入，必须安装 Drive 应用程序。\\n\\n您可以从电脑访问 Google Drive，也可以从 SD 卡或其他外部存储导入数据。",
     "fr": "À import, vous must avoir le Drive application installed (ce est installed par most Android manufacturers et peut be downloaded de le store).\\n\\nTo voir votre Google Drive files de votre computer, vous peut visit https://drive.Google.com. Vous peut also import de votre SDCard ou any other external stockage (open le side menu dans le fichier picker)."
-  },
-  "csvImport_importAndOverwrite": {
-    "en": "Delete local data after importing",
-    "es": "Eliminar datos locales después de importar",
-    "de": "Lokale Daten nach dem Import löschen",
-    "fr": "Supprimer les données locales après avoir importé",
-    "fr-CA": "Supprimer les données locales après avoir importé",
-    "tr": "İçe aktardıktan sonra yerel verileri sil",
-    "zh-Hant-TW": "匯入後刪除本機資料",
-    "zh-Hans": "导入后删除本地数据"
   },
   "csvImport_imported": {
     "en": "Imported",
@@ -2302,7 +2312,7 @@
     "zh-Hans": "备份",
     "fr": "Sauvegarde"
   },
-    "generic_backupChooseMethod": {
+  "generic_backupChooseMethod": {
     "en": "Choose a backup method",
     "es": "Elija un método de respaldo",
     "de": "Wählen Sie eine Backup-Methode",
@@ -9874,16 +9884,6 @@
     "zh-Hans": "最后更改",
     "es": "Último cambio",
     "fr": "Last Changement"
-  },
-  "sync_deleteLocalDataBeforeSync": {
-    "en": "Delete local data before syncing",
-    "fr-CA": "Supprimer local données avant syncing",
-    "de": "Lokale Daten vor der Synchronisierung löschen",
-    "tr": "Senkronizasyondan önce yerel verileri sil",
-    "zh-Hant-TW": "同步前刪除本地資料",
-    "zh-Hans": "同步前删除本地数据",
-    "es": "Eliminar datos locales antes de sincronizar",
-    "fr": "Supprimer local données avant syncing"
   },
   "sync_quotesAndPortfolioData": {
     "en": "Quotes and Portfolio Data",
