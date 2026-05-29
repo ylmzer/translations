@@ -1719,6 +1719,26 @@
     "fr": "S’abonner à Premium pour comparer la performance de votre portefeuille avec un autre symbole ?"
   },
   "chart_compareWithSymbolAnnotationHelp": {
+    "en": "Use Performance to compare returns, or Independent to give the comparison symbol its own scale.",
+    "fr-CA": "Utilisez Performance pour comparer les rendements, ou Indépendant pour donner au symbole comparé sa propre échelle.",
+    "es": "Use Rendimiento para comparar los retornos, o Independiente para darle al símbolo comparado su propia escala.",
+    "de": "Verwenden Sie Performance, um Renditen zu vergleichen, oder Unabhängig, um dem Vergleichssymbol eine eigene Skala zu geben.",
+    "tr": "Getirileri karşılaştırmak için Performans'ı, karşılaştırma sembolüne kendi ölçeğini vermek için ise Bağımsız'ı kullanın.",
+    "zh-Hant-TW": "使用「績效」來比較報酬，或使用「獨立」讓比較標的擁有自己的刻度。",
+    "zh-Hans": "使用“绩效”比较回报，或使用“独立”让对比代码拥有自己的刻度。",
+    "fr": "Utilisez Performance pour comparer les rendements, ou Indépendant pour donner au symbole comparé sa propre échelle."
+  },
+  "chart_compareWithSymbolIndependentAnnotationHelp": {
+    "en": "The comparison symbol will have its own independent y-axis on the left of the chart.",
+    "fr-CA": "Le symbole de comparaison aura son propre axe Y indépendant à gauche du graphique.",
+    "es": "El símbolo comparado tendrá su propio eje Y independiente a la izquierda del gráfico.",
+    "de": "Das Vergleichssymbol erhält auf der linken Seite des Diagramms eine eigene unabhängige Y-Achse.",
+    "tr": "Karşılaştırma sembolünün, grafiğin sol tarafında kendi bağımsız y ekseni olacaktır.",
+    "zh-Hant-TW": "比較標的會在圖表左側擁有自己的獨立 Y 軸。",
+    "zh-Hans": "对比代码将在图表左侧拥有自己独立的 Y 轴。",
+    "fr": "Le symbole de comparaison aura son propre axe Y indépendant à gauche du graphique."
+  },
+  "chart_compareWithSymbolPerformanceAnnotationHelp": {
     "en": "The percent change annotation that appears on the overlay chart line is for its performance relative to the underlying chart. For example, +10% means that it outperformed by 10% and -10% means it underperformed by 10%.",
     "fr-CA": "L’annotation de variation en pourcentage qui apparaît sur la ligne du graphique superposé indique sa performance par rapport au graphique sous-jacent. Par exemple, +10 % signifie qu’elle a surperformé de 10 %, et -10 % signifie qu’elle a sous-performé de 10 %.",
     "es": "La anotación de cambio porcentual que aparece en la línea del gráfico superpuesto muestra su rendimiento en relación con el gráfico subyacente. Por ejemplo, +10% significa que superó el rendimiento en un 10% y -10% significa que tuvo un rendimiento inferior en un 10%.",
@@ -3752,6 +3772,16 @@
     "zh-Hant-TW": "若要繼續，請同意隱私權政策與使用規範",
     "zh-Hans": "继续操作前请先同意隐私政策和使用条款"
   },
+  "generic_pleaseSeeAttachedCSVFile": {
+    "en": "Please see the attached CSV file",
+    "es": "Por favor, consulte el archivo CSV adjunto",
+    "de": "Bitte beachten Sie die angehängte CSV-Datei",
+    "fr": "Veuillez consulter le fichier CSV ci-joint",
+    "fr-CA": "Veuillez consulter le fichier CSV ci-joint",
+    "tr": "Lütfen ekteki CSV dosyasına bakın",
+    "zh-Hant-TW": "請查看隨附的 CSV 檔案",
+    "zh-Hans": "请查看随附的 CSV 文件"
+  },
   "generic_pleaseWaitSecondsBeforeRetrying": {
     "_formatted": false,
     "en": "Please wait %s seconds before retrying",
@@ -4104,6 +4134,17 @@
     "zh-Hant-TW": "登入帳戶即可跨裝置同步",
     "zh-Hans": "登录以同步多端数据",
     "fr": "Se connecter à synchroniser across devices"
+  },
+  "generic_signInWith": {
+    "_formatted": false,
+    "en": "Sign in with %s",
+    "fr-CA": "Se connecter avec %s",
+    "es": "Iniciar sesión con %s",
+    "de": "Anmelden mit %s",
+    "tr": "%s ile oturum aç",
+    "zh-Hant-TW": "使用 %s 登入",
+    "zh-Hans": "使用 %s 登录",
+    "fr": "Se connecter avec %s"
   },
   "generic_sincePlaceholder": {
     "_formatted": false,
